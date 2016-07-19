@@ -1,10 +1,10 @@
 {
-  "name": "",
-  "title": "",
-  "displayName": "",
+  "name": "Kleinstein",
+  "title": "Kleinstein",
+  "displayName": "Kleinstein",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "",
+  "description": "Don't need the account list? Remove it!",
   "license": "GPL-3.0",
   "engines": {
     "nylas": "*"
